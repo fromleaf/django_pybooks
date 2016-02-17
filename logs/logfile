@@ -1,4 +1,0 @@
-[09/Feb/2016 21:56:18] DEBUG [polls.views:32] vote().question_id: 2
-[09/Feb/2016 22:05:24] DEBUG [polls.views:32] vote().question_id: 3
-[09/Feb/2016 22:06:55] DEBUG [polls.views:32] vote().question_id: 3
-[09/Feb/2016 22:07:05] DEBUG [polls.views:32] vote().question_id: 3
